@@ -1,0 +1,1 @@
+文字的编码问题在smartGit-->setting -->text code
